@@ -59,7 +59,7 @@ def drawSpecial(t,size,repeat):
 drawSpecial(Asu,100,10)
 Sipun = turtle.Turtle()
 Sipun.speed(0)
-Sipun.color('pink')
+Sipun.color('Red')
 rotate=int(90)
 def drawCircles(t,size):
     for i in range(4):
